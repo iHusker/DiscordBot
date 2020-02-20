@@ -1,6 +1,6 @@
 package com.stefthedev.discordbot.managers;
 
-import com.stefthedev.discordbot.utilities.CommandExecutor;
+import com.stefthedev.discordbot.utilities.command.CommandExecutor;
 import com.stefthedev.discordbot.utilities.general.Manager;
 
 import java.util.Arrays;
